@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qpxao5IXZYI=",
+  "success": true,
+  "projectFilePath": "A:\\DotNet\\OrderTrackingSystem\\OrderPublisher\\OrderPublisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adars\\.nuget\\packages\\rabbitmq.client\\7.1.2\\rabbitmq.client.7.1.2.nupkg.sha512",
+    "C:\\Users\\adars\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\adars\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
