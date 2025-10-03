@@ -1,0 +1,12 @@
+A:\DotNet\Dashboard\OrderTrackingSystem\Core\bin\Debug\net9.0\Core.deps.json
+A:\DotNet\Dashboard\OrderTrackingSystem\Core\bin\Debug\net9.0\Core.dll
+A:\DotNet\Dashboard\OrderTrackingSystem\Core\bin\Debug\net9.0\Core.pdb
+A:\DotNet\Dashboard\OrderTrackingSystem\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+A:\DotNet\Dashboard\OrderTrackingSystem\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
+A:\DotNet\Dashboard\OrderTrackingSystem\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
+A:\DotNet\Dashboard\OrderTrackingSystem\Core\obj\Debug\net9.0\Core.csproj.CoreCompileInputs.cache
+A:\DotNet\Dashboard\OrderTrackingSystem\Core\obj\Debug\net9.0\Core.sourcelink.json
+A:\DotNet\Dashboard\OrderTrackingSystem\Core\obj\Debug\net9.0\Core.dll
+A:\DotNet\Dashboard\OrderTrackingSystem\Core\obj\Debug\net9.0\refint\Core.dll
+A:\DotNet\Dashboard\OrderTrackingSystem\Core\obj\Debug\net9.0\Core.pdb
+A:\DotNet\Dashboard\OrderTrackingSystem\Core\obj\Debug\net9.0\ref\Core.dll

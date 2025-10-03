@@ -142,11 +142,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\DotNet\\OrderTrackingSystem\\OrderPublisher\\OrderPublisher.csproj",
+      "projectUniqueName": "A:\\DotNet\\Dashboard\\OrderTrackingSystem\\OrderPublisher\\OrderPublisher.csproj",
       "projectName": "OrderPublisher",
-      "projectPath": "A:\\DotNet\\OrderTrackingSystem\\OrderPublisher\\OrderPublisher.csproj",
+      "projectPath": "A:\\DotNet\\Dashboard\\OrderTrackingSystem\\OrderPublisher\\OrderPublisher.csproj",
       "packagesPath": "C:\\Users\\adars\\.nuget\\packages\\",
-      "outputPath": "A:\\DotNet\\OrderTrackingSystem\\OrderPublisher\\obj\\",
+      "outputPath": "A:\\DotNet\\Dashboard\\OrderTrackingSystem\\OrderPublisher\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

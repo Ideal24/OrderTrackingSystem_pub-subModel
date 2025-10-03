@@ -142,11 +142,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\DotNet\\OrderTrackingSystem\\OrderSubscriber\\OrderSubscriber.csproj",
+      "projectUniqueName": "A:\\DotNet\\Dashboard\\OrderTrackingSystem\\OrderSubscriber\\OrderSubscriber.csproj",
       "projectName": "OrderSubscriber",
-      "projectPath": "A:\\DotNet\\OrderTrackingSystem\\OrderSubscriber\\OrderSubscriber.csproj",
+      "projectPath": "A:\\DotNet\\Dashboard\\OrderTrackingSystem\\OrderSubscriber\\OrderSubscriber.csproj",
       "packagesPath": "C:\\Users\\adars\\.nuget\\packages\\",
-      "outputPath": "A:\\DotNet\\OrderTrackingSystem\\OrderSubscriber\\obj\\",
+      "outputPath": "A:\\DotNet\\Dashboard\\OrderTrackingSystem\\OrderSubscriber\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
